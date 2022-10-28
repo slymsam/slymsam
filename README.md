@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shedrach Samuel
+- 👋 Hi, I’m Samuel Shedrach
 - 👀 I’m interested in React JS, Java, HTML, and CSS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React
